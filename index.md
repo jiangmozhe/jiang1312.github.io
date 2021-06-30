@@ -1,3 +1,12 @@
 ### 内容
 ## (｡･∀･)ﾉﾞ嗨
-# [C语言](./c-cn.html.markdown)
+# [c](./c-cn.html.markdown)
+# [c++](./c++-cn.html.markdown)
+# [git](./git-cn.html.markdown)
+# [go](./go-cn.html.markdown)
+# [html](./html-cn.html.markdown)
+# [java](./java-cn.html.markdown)
+# [markdown](./markdown-cn.html.markdown)
+# [python](./python-cn.html.markdown)
+# [qt](./qt-cn.html.markdown)
+# [sql](sql.html.markdown)
